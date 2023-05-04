@@ -1029,7 +1029,7 @@
     }
 
     .sub_categories .singlecats.active:hover {
-        background: #fff;
+        background: #000000;
     }
 
     .singlecats.active .mega_menu {
